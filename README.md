@@ -1,3 +1,2 @@
 # Saoch
-Toilets locations base app ,
-developing by aman
+Toilets locations base app 
